@@ -29,11 +29,10 @@ Future Prospects for our application are extensive. Some are -
 - Firebase
 ## Author
 
-👤 **Atharv Jairath**
+👤 **Ishaan Bajaj**
 
-* Website: atharv.jairath@gmail.com
-* Github: [@atharvjairath](https://github.com/atharvjairath)
-* LinkedIn: [@Atharvjairath](https://www.linkedin.com/in/atharv-jairath-99aa78118/)
+* Github: [@ishaanbajaj30](https://github.com/ishaanbajaj30)
+* LinkedIn: [@IshaanBajaj](https://www.linkedin.com/in/ishaan-bajaj-159b191b6/)
 
 ## 🤔 How to contribute
 
